@@ -8,4 +8,3 @@
 # 使用技術
 - Rust
 - Docker
-- Kubernetes
